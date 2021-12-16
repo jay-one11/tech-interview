@@ -5,14 +5,6 @@
 > <br> :star: Star나 Watching를 통한 많은 관심 부탁드립니다. :)
 
 <div align=center>
-
-[![author](https://img.shields.io/badge/author-WeareSoft-red.svg)](https://github.com/WeareSoft)
-[![HeeBlog](https://img.shields.io/badge/blog-Hee-lightgrey.svg)](https://gmlwjd9405.github.io/)
-[![DoyBlog](https://img.shields.io/badge/blog-Doy-lightgrey.svg)](https://doooyeon.github.io/)
-[![NesoyBlog](https://img.shields.io/badge/blog-Nesoy-lightgrey.svg)](https://nesoy.github.io/)
-[![DelfBlog](https://img.shields.io/badge/blog-Delf-lightgrey.svg)](https://delf-lee.github.io/)
-[![contributors](https://img.shields.io/badge/contributors-4-yellowgreen.svg)](https://github.com/WeareSoft/tech-interview/graphs/contributors)
-
 </div>
 
 
